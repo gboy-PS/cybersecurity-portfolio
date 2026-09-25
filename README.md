@@ -27,7 +27,7 @@ I am a junior cybersecurity student interested in ethical hacking, system securi
 - Python Scripts
 - CTF Writeups
 - Learning Log
-
+- documentation and reporting
 ## Ethical Statement
 
 All work in this portfolio is for educational purposes only. I only practice cybersecurity in legal, safe, and approved environments such as labs, course exercises, and CTF platforms.
